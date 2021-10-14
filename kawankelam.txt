@@ -1,0 +1,10 @@
+alfasymlink/
+home/
+ALFA_DATA/
+decay_sym/
+adminer.php
+sym403/
+alfacgiapi/
+sym/
+priv_sym/
+priv8_sym404/
