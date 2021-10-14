@@ -1,4 +1,4 @@
-# tikungshellkawankelam
+# configfinder
 Config finder tikung ahell
 
 # (((((((((((((((((((((@)))))))))))))))))))))
